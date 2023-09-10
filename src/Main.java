@@ -43,10 +43,6 @@ public class Test1 {
 		
 		
 		
-		public static int div(int x, int y) {
-			
-			
-			
-		}
+		
 
 }
